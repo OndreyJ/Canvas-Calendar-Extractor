@@ -18,7 +18,7 @@ Ensure Python is installed on your device.
     - Right-click "FetchCanvasCalendars.py" => Open with => Python.
 
 ## Video Demonstration
-
+[![Video Title](https://img.youtube.com/vi/OzhMK-0nAK0/0.jpg)](https://www.youtube.com/watch?v=OzhMK-0nAK0)
 
 Click the thumbnail to watch a video demonstration of the script in action.
 
