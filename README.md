@@ -19,6 +19,7 @@ Ensure Python is installed on your device.
 
 ## Video Demonstration
 [![Video Thumbnail](https://img.youtube.com/vi/54UTVe8K3rw/0.jpg)](https://www.youtube.com/watch?v=54UTVe8K3rw)
+
 Click the thumbnail to watch a video demonstration of the script in action.
 
 ## Output
