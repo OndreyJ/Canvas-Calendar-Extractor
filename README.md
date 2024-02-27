@@ -17,6 +17,10 @@ Ensure Python is installed on your device.
 2. Run the script:
     - Right-click "FetchCanvasCalendars.py" => Open with => Python.
 
+## Video Demonstration
+[![Video Thumbnail](https://img.youtube.com/vi/54UTVe8K3rw/0.jpg)](https://www.youtube.com/watch?v=54UTVe8K3rw)
+Click the thumbnail to watch a video demonstration of the script in action.
+
 ## Output
 The extracted calendar files will be saved in a folder created by the script. These files can be used on various platforms.
 
