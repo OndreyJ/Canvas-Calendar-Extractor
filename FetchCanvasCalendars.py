@@ -1,5 +1,6 @@
-import requests
 import os
+import requests
+
 
 canvasToken = None
 subdomain = None
