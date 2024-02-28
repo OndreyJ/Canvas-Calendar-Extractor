@@ -15,7 +15,8 @@ Ensure Python is installed on your device.
     - Copy the token and paste it into "OpenMe.txt" (Keep the single quotes around the token).
     - Copy the subdomain of your Canvas URL and paste it into "OpenMe.txt" (This is usually your College's abbreviation and is before ".instructure") (Keep the single quotes around the token).
 2. Run the script:
-    - Right-click "FetchCanvasCalendars.py" => Open with => Python.
+    - If on Windows run the run_script.bat file
+    - If on Apple or Linux run the run_script.sh file
 
 ## Video Demonstration
 [![Video Title](https://img.youtube.com/vi/OzhMK-0nAK0/0.jpg)](https://www.youtube.com/watch?v=OzhMK-0nAK0)
